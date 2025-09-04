@@ -1,1 +1,1 @@
-# K-means-Mean-shift-clustering
+# K-means and Mean-shift-clustering
