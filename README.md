@@ -1,1 +1,7 @@
 # K-means and Mean-shift-clustering
+
+The project involves studying two clustering algorithms: the K-means algorithm and the mean shift clustering algorithm.
+
+In the field of machine learning and data science, data clustering plays a crucial role in exploratory analysis and unsupervised classification. Clustering algorithms are useful for several reasons. One application of clustering algorithms is identifying patterns in unlabeled data to uncover relationships within the dataset. Another use case is image segmentation based on pixels, where clustering is performed using different pixels to recognize shapes in an image, for example.
+
+Among the various clustering techniques available, the K-means and Mean Shift algorithms stand out due to their popularity and effectiveness in diverse application contexts. K-means clustering, known for its simplicity and computational speed, is widely used to partition a dataset into a predefined number of clusters, thereby optimizing the sum of intra-cluster squared distances. In contrast, Mean Shift clustering, which is based on density estimation, automatically detects the number of clusters by focusing on density maxima in the feature space. This report aims to explore in detail the mechanisms, advantages, and limitations of these two algorithms, highlighting their fundamental differences and their respective application domains.
